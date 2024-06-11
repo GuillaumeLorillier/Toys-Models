@@ -22,3 +22,12 @@ Tableau de bord - Ventes
 Tableau de bord - Finances
 ![image](https://github.com/GuillaumeLorillier/Toys-Models/assets/161337751/6154c9c8-0d9a-43b1-b90e-d11ce75ddb59)
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+# Fichiers dans ce repo
+
+PDF de présentation
+
+Captures d'écran des tableaux de bord POwer BI
+
+Captures d'ecran de quelques requêtes SQL
