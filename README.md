@@ -1,5 +1,11 @@
 # Toys-Models
-Projet 1 Wild Code School
+Projet 1 Wild Code School 
+
+Objectif : Création d'un tableau de bord qui s'articule autour de 4 thèmes principaux : ventes, finances, logistique, ressources humaines
+
+Equipe : Brahim BADREDDINE, Teddy HERVINEAU, Guillaume LORILLIER
+
+Outils utilisés : Base de données MySQL / Power BI pour visualisation et langage DAX
 
 ![image](https://github.com/GuillaumeLorillier/Toys-Models/assets/161337751/d0f699e7-7032-4e02-a07b-22155d1ed25f)
 
