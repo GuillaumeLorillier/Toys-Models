@@ -24,10 +24,10 @@ Tableau de bord - Finances
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-# Fichiers dans ce repo
+# Fichiers dans ce repository
 
-PDF de présentation
+=> PDF de présentation
 
-Captures d'écran des tableaux de bord POwer BI
+=> Captures d'écran des tableaux de bord POwer BI
 
-Captures d'ecran de quelques requêtes SQL
+=> Captures d'ecran de quelques requêtes SQL
