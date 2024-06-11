@@ -2,6 +2,7 @@
 Projet 1 Wild Code School 
 
 Objectif : Création d'un tableau de bord qui s'articule autour de 4 thèmes principaux : ventes, finances, logistique, ressources humaines
+
 Outils utilisés : Base de données MySQL pour l'analyse / Power BI pour la visualisation et quelques calculs en langage DAX
 
 Equipe : Brahim BADREDDINE, Teddy HERVINEAU, Guillaume LORILLIER
